@@ -1,0 +1,11 @@
+*.ad1
+*.E01
+*.dd
+*.raw
+*.mem
+*.dmp
+*.vmem
+*.pcap
+*.pcapng
+*.qcow2
+*.zip
